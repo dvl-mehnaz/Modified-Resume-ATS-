@@ -1,2 +1,2 @@
 # Modified-Resume-ATS-
-This model takes the file from user in an pdf format 
+This model takes the file from user in a pdf format 
